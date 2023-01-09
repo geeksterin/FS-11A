@@ -1,0 +1,67 @@
+// "static void main" must be defined in a public class.
+public class Main {
+    public static void main(String[] args) {
+        
+//         System.out.println("Archit Aggarwal");
+//         System.out.println("A");
+//         System.out.println("R");
+//         System.out.println("C");
+//         System.out.println("H");
+//         System.out.println("I");
+//         System.out.println("T");
+        
+        // System.out.print("Geekster");
+        // System.out.println("FS 11 A");
+        // System.out.print("PreCourse");
+        
+//         System.out.println(10 + 20);
+//         System.out.println(10 - 20);
+//         System.out.println(10 * 20);
+        
+//         System.out.println(10 / 20);
+//         System.out.println(30 / 20);
+//         System.out.println(40 / 20);
+//         System.out.println(10 / 3);
+        
+//         System.out.println(10.0 / 20);
+//         System.out.println(10 / 3.0);
+//         System.out.println(40.0 / 20.0);
+        
+//         System.out.println("10 + 20");
+//         System.out.println("10" + "20");
+        
+//         System.out.println("Archit" + "Aggarwal");
+//         System.out.println(10 - 20 + "Archit" + 10 + 20);
+        
+//         System.out.print(10 + 20);
+//         System.out.println(10 / 0);
+        
+        System.out.println("******");
+        System.out.println("   *");
+        System.out.println("  *");
+        System.out.println(" *");
+        System.out.println("******");
+        
+        
+        System.out.println();
+        
+        System.out.println("*****");
+        System.out.println("*");
+        System.out.println("*");
+        System.out.println("*");
+        System.out.println("*****");
+        System.out.println("     *");
+        System.out.println("     *");
+        System.out.println("     *");
+        System.out.println("*****");
+        
+        System.out.println();
+        
+        System.out.println("*******");
+        System.out.println("*");
+        System.out.println("*  ****");
+        System.out.println("*  *  *");
+        System.out.println("****  *");
+        
+    }
+}
