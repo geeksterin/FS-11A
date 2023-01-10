@@ -1,0 +1,53 @@
+// "static void main" must be defined in a public class.
+public class Main {
+    public static void main(String[] args) {
+//         String firstname = "archit";
+        
+//         System.out.println("firstname");
+//         System.out.println(firstname);
+        
+//         String pitch = "My company is Geekster. I want to take funding";
+//         System.out.println(pitch);
+        
+//         pitch = "My company is Geekster. I want to give a counter offer";
+//         System.out.println(pitch);
+        
+//         firstname = "Bittoo";
+//         System.out.println(firstname);
+        
+//          int marks = 75;
+//          System.out.println(marks);
+
+//          marks = 99;
+//          System.out.println(marks);
+
+//          // marks = 33.3; // not possible
+         
+//          int avengers1 = 120;
+//          int avengers2 = 180;
+         
+//          System.out.println(avengers1 + avengers2);
+//          System.out.println(avengers1 + " " + avengers2);
+//          System.out.println("avengers1 + avengers2");
+        
+//          System.out.println(avengers2 / avengers1);
+        
+//          double percentage = 33.33;
+//          System.out.println(percentage);
+        
+//          double avatar1 = 21;
+//          double avatar2 = 17;
+        
+//          System.out.println(avatar1);
+//          System.out.println(avatar2 / avatar1);
+            
+        
+        Scanner scn = new Scanner(System.in);
+        
+        int avengers1 = scn.nextInt();
+        int avengers2 = scn.nextInt();
+        
+        System.out.println(avengers1 + avengers2);
+        
+    }
+}
