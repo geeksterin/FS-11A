@@ -1,0 +1,20 @@
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scn = new Scanner(System.in);
+        
+//         String city = scn.next();
+//         System.out.println(city);
+        
+//         String movie = scn.next();
+//         System.out.println(movie + " is premiering at " + city);
+        
+        // String name = scn.nextLin?
+        
+//         int m1 = scn.nextInt();
+//         int m2 = scn.nextInt();
+        
+//         System.out.println(m1);
+//         System.out.println(m2);
+    }
+}
