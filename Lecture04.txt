@@ -1,0 +1,20 @@
+
+public class Main {
+    public static void main(String[] args) {
+        boolean a = false;
+        System.out.println(a);
+        
+        boolean b = true;
+        System.out.println(b);
+        
+        // System.out.println(true = false); // erro
+        System.out.println(true == false); // false
+        
+        // int marks = false; // error
+        // System.out.println(marks);
+        
+        System.out.println(10 == 5);
+        System.out.println(10 != 10);
+        System.out.println(18 < 21);
+    }
+}
