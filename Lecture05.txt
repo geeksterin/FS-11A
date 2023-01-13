@@ -1,0 +1,57 @@
+
+public class Main {
+    public static void main(String[] args) {
+//         System.out.println(3 > 2 && 14 > 3); // T && T = T
+//         System.out.println(40 > 3 && 40 > 50); // T && F = F
+//         System.out.println(40 >= 40 || 50 >= 2 * 25); // T || ? = T
+//         System.out.println(40 != 40 && 50 > 10 && 60 > 0); // F && ? = F
+        
+//         boolean ans1 = (2*3==4 && 6*4==9) || (4>2);
+//         System.out.println(ans1);
+        
+//         boolean ans2 = (4>5) && (3>5 && 80 == 2*40);
+//         System.out.println(ans2);
+        
+//         boolean ans3 = (20*5==100 || 10==10) && (30*2==60 || 40>30);
+//         System.out.println(ans3);
+        
+//         System.out.println( !(30 > 20) );
+//         System.out.println( !(30 == 30));
+        
+//         boolean ans4 = !(30 >= 20 || 40 >= 10);
+            
+//         boolean ans5 = !( (20*4 + 40 >= 100 || 20==10) 
+//                          && (3*2<=60 || 4 >= 30));
+        
+//         boolean ans6 = !( 20%3==2 );
+        
+//         boolean ans7 = ( !(40==40) && 80>36);
+        
+//         boolean ans8 = ( !(50>20) || 90>2*45) && ( 30!=2*15);
+        
+//         System.out.println(ans4);
+//         System.out.println(ans5);
+//         System.out.println(ans6);
+//         System.out.println(ans7);
+//         System.out.println(ans8);
+    
+        // System.out.println(10 ≥ 10); error
+        
+        Scanner scn = new Scanner(System.in);
+        int age = scn.nextInt();
+        
+        if(age > 60){
+            System.out.println("Senior Citizen");
+        }
+        if(age >= 18){
+            System.out.println("Adult");
+        }
+        if(age >= 13){
+            System.out.println("Teen");
+        } 
+        if(age >= 0){
+            System.out.println("Baby");
+        }
+        
+    }
+}
