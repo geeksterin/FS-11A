@@ -1,0 +1,51 @@
+
+public class Main {
+    public static void main(String[] args) {
+//         String mail = "archit.aggarwal023@gmail.com";
+        
+//         char var1 = 'a';
+//         char var2 = '@';
+//         char var3 = ' ';
+//         char var4 = '9';
+        
+//         System.out.println(mail);
+//         System.out.println(var1);
+//         System.out.println(var2);
+//         System.out.println(var3);
+//         System.out.println(var4);
+        
+//         int var5 = var1;
+//         System.out.println(var5);
+        
+//         int var6 = var4;
+//         System.out.println(var6);
+        
+//         int var7 = 'f' - 'c';
+//         System.out.println(var7);
+        
+//         int var8 = 'c' + 'd';
+//         System.out.println(var8);
+        
+//         int var9 = 'A' - 'a';
+//         System.out.println(var9); // -32
+        
+//         int var10 = 'z' - 'Z';
+//         System.out.println(var10); // 122 - 90 = +32
+        
+        // System.out.println('a' + 3);
+        
+//         int var = 'd'; // char -> int: ASCII
+//         System.out.println(var);
+        
+//         char ch = (char)(100); // int -> char
+//         System.out.println(ch);
+        
+//         char ch2 = (char)(-3); 
+//         System.out.println(ch2);
+        
+        for(int day = 1; day <= 7; day++){
+            System.out.println(day + " Eat Sleep Code Repeat");
+        }
+        
+    }
+}
